@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cascades/frontalEyes35x16.xml</file>
+        <file>cascades/haarcascade_eye.xml</file>
+        <file>cascades/haarcascade_frontalface_alt.xml</file>
+        <file>cascades/haarcascade_frontalface_alt_tree.xml</file>
+        <file>cascades/haarcascade_frontalface_alt2.xml</file>
+        <file>cascades/haarcascade_frontalface_default.xml</file>
+    </qresource>
+</RCC>
